@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:fitsSystemWindows="true"
+    tools:context="com.example.ngoquan.demomap.ManageActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/activity_vertical_margin">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Getting started Google Map"
+        android:id="@+id/btn_getting_start"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Place Picker in Google map"
+        android:id="@+id/btn_place_picker"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Map Distance in Google map"
+        android:id="@+id/btn_map_distance"
+        android:layout_marginTop="20dp"/>
+
+
+
+</LinearLayout>

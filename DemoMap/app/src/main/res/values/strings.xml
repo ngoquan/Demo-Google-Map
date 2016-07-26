@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_place_picker">PlacePickerActivity</string>
+    <string name="title_activity_map_distance">MapDistanceActivity</string>
+    <string name="title_activity_manage">ManageActivity</string>
+</resources>
